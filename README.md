@@ -1,4 +1,4 @@
-## STAF: Sequence–Topology Alignment and Fusion for Protein Function Prediction
+## STAF: A Sequence–Topology Alignment and Fusion Framework with Protein–GO Contrastive Learning and Gradient Boosting for Protein Function Prediction
 
 STAF is a computational framework designed for large-scale automated protein function prediction. It natively integrates sequence information, protein-protein interaction (PPI) network topologies, and hierarchical Gene Ontology (GO) terms using a dual-branch graph encoder, contrastive learning, and an XGBoost-based auxiliary supervision mechanism. 
 
