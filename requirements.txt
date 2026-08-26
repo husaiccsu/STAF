@@ -1,0 +1,12 @@
+torch>=2.0.0
+torch-geometric
+dgl
+transformers
+xgboost
+scikit-learn
+numpy
+scipy
+pandas
+biopython
+networkx
+joblib
